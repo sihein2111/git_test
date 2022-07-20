@@ -1,1 +1,3 @@
-Hey! I'm learning Web Development from Odin Project! I will give my best at learning and try to land a job in 1 year!
+Hey! I'm learning Web Development from Odin Project!
+I will be supplementing it with Colt Steele Web Development Bootcamp from Udemy!
+I will give my best at learning and try to land a job in 1 year!
